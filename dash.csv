@@ -1,8 +1,9 @@
 ids,labels,parents
-Student1-Academics,Academics,
-Student1-Languages,Languages,
-Student1-SocialStudies,Social Studies,
-Student1-Arts,Arts,
+Student1,Student1,
+Student1-Academics,Academics,Student1
+Student1-Languages,Languages,Student1
+Student1-SocialStudies,Social Studies,Student1
+Student1-Arts,Arts,Student1
 Student1-Mathematics,Mathematics,Student1-Academics
 Student1-Physics,Physics,Student1-Academics
 Student1-Chemistry,Chemistry,Student1-Academics
@@ -19,10 +20,11 @@ Student1-Art,Art,Student1-Arts
 Student1-Music,Music,Student1-Arts
 Student1-Theatre,Theatre,Student1-Arts
 Student1-Dance,Dance,Student1-Arts
-Student2-Academics,Academics,
-Student2-Languages,Languages,
-Student2-SocialStudies,Social Studies,
-Student2-Arts,Arts,
+Student2,Student2,
+Student2-Academics,Academics,Student2
+Student2-Languages,Languages,Student2
+Student2-SocialStudies,Social Studies,Student2
+Student2-Arts,Arts,Student2
 Student2-Mathematics,Mathematics,Student2-Academics
 Student2-Physics,Physics,Student2-Academics
 Student2-Chemistry,Chemistry,Student2-Academics
@@ -39,10 +41,11 @@ Student2-Art,Art,Student2-Arts
 Student2-Music,Music,Student2-Arts
 Student2-Theatre,Theatre,Student2-Arts
 Student2-Dance,Dance,Student2-Arts
-Student3-Academics,Academics,
-Student3-Languages,Languages,
-Student3-SocialStudies,Social Studies,
-Student3-Arts,Arts,
+Student3,Student3,
+Student3-Academics,Academics,Student3
+Student3-Languages,Languages,Student3
+Student3-SocialStudies,Social Studies,Student3
+Student3-Arts,Arts,Student3
 Student3-Mathematics,Mathematics,Student3-Academics
 Student3-Physics,Physics,Student3-Academics
 Student3-Chemistry,Chemistry,Student3-Academics
@@ -59,10 +62,11 @@ Student3-Art,Art,Student3-Arts
 Student3-Music,Music,Student3-Arts
 Student3-Theatre,Theatre,Student3-Arts
 Student3-Dance,Dance,Student3-Arts
-Student4-Academics,Academics,
-Student4-Languages,Languages,
-Student4-SocialStudies,Social Studies,
-Student4-Arts,Arts,
+Student4,Student4,
+Student4-Academics,Academics,Student4
+Student4-Languages,Languages,Student4
+Student4-SocialStudies,Social Studies,Student4
+Student4-Arts,Arts,Student4
 Student4-Mathematics,Mathematics,Student4-Academics
 Student4-Physics,Physics,Student4-Academics
 Student4-Chemistry,Chemistry,Student4-Academics
@@ -79,10 +83,11 @@ Student4-Art,Art,Student4-Arts
 Student4-Music,Music,Student4-Arts
 Student4-Theatre,Theatre,Student4-Arts
 Student4-Dance,Dance,Student4-Arts
-Student5-Academics,Academics,
-Student5-Languages,Languages,
-Student5-SocialStudies,Social Studies,
-Student5-Arts,Arts,
+Student5,Student5,
+Student5-Academics,Academics,Student5
+Student5-Languages,Languages,Student5
+Student5-SocialStudies,Social Studies,Student5
+Student5-Arts,Arts,Student5
 Student5-Mathematics,Mathematics,Student5-Academics
 Student5-Physics,Physics,Student5-Academics
 Student5-Chemistry,Chemistry,Student5-Academics
