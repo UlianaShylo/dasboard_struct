@@ -15,7 +15,6 @@ Student1-Art,Art,Student1-Arts
 Student1-Music,Music,Student1-Arts
 Student1-Theatre,Theatre,Student1-Arts
 Student1-Dance,Dance,Student1-Arts
-
 Student2-Mathematics,Mathematics,Student2-Academics
 Student2-Physics,Physics,Student2-Academics
 Student2-Chemistry,Chemistry,Student2-Academics
@@ -32,7 +31,6 @@ Student2-Art,Art,Student2-Arts
 Student2-Music,Music,Student2-Arts
 Student2-Theatre,Theatre,Student2-Arts
 Student2-Dance,Dance,Student2-Arts
-
 Student3-Mathematics,Mathematics,Student3-Academics
 Student3-Physics,Physics,Student3-Academics
 Student3-Chemistry,Chemistry,Student3-Academics
@@ -49,7 +47,6 @@ Student3-Art,Art,Student3-Arts
 Student3-Music,Music,Student3-Arts
 Student3-Theatre,Theatre,Student3-Arts
 Student3-Dance,Dance,Student3-Arts
-
 Student4-Mathematics,Mathematics,Student4-Academics
 Student4-Physics,Physics,Student4-Academics
 Student4-Chemistry,Chemistry,Student4-Academics
@@ -66,7 +63,6 @@ Student4-Art,Art,Student4-Arts
 Student4-Music,Music,Student4-Arts
 Student4-Theatre,Theatre,Student4-Arts
 Student4-Dance,Dance,Student4-Arts
-
 Student5-Mathematics,Mathematics,Student5-Academics
 Student5-Physics,Physics,Student5-Academics
 Student5-Chemistry,Chemistry,Student5-Academics
